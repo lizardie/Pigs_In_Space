@@ -1,6 +1,6 @@
 # Pigs in Space Netlogo Model
 
-This model was made to simulate movement of wild boars in a city of Haifa using Netlogo software (Wilensky 1999). More information about this model and research behind it can be found in Toger et al. (2018). The model is also uploaded to the [Modelling Commons!](http://modelingcommons.org/browse/one_model/6646).
+This model was made to simulate movement of wild boars in a city of Haifa using Netlogo software (Wilensky 1999). More information about this model and research behind it can be found in Toger et al. (2018). The model is also uploaded to the [Modelling Commons](http://modelingcommons.org/browse/one_model/6646).
 
 
 ### References
