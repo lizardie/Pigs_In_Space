@@ -1,3 +1,75 @@
+
+####################
+## macOS generated files
+####################
+.AppleDouble
+.LSOverride
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+####################
+# Dropbox settings and caches
+####################
+.dropbox
+.dropbox.attr
+.dropbox.cache
+
+
+####################
+# Microsoft Office
+####################
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
+
+####################
+# Stata files
+####################
+# Commercial statistical software: http://www.stata.com
+
+# Stata dataset and output files
+*.dta
+*.gph
+*.log
+*.smcl
+*.stpr
+*.stsem
+
+
+####Jupyter
+.ipynb_checkpoints
+
+
+
+####################
+## R gitignore
+####################
+
+
 # History files
 .Rhistory
 .Rapp.history
