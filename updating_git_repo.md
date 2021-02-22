@@ -5,30 +5,24 @@ Pigs in space NetLogo model
 
 
 ---
-## Git dlja 4ajnikov
-to update this do the following
+# Git dlja 4ajnikov
+to update the repo :
 
 ## do every time
-#--------------------
+
 ```
 git checkout master
-#git pull https://github.com/lizardie/Pigs_In_Space.git
-#git pull origin master
-#If there are conflicts, resolve them. For more information, see "Addressing merge conflicts".
 git pull
 ls
-#git fetch origin master
-#git merge origin master
 #after some changes in the folder
 git status
 git add .
 git status
-git add -A
-git status
-git commit -a -m "update `date +\"%Y-%m-%d\"`"
+git commit -a -m "update `date +\"%Y-%m-%d\"`
+"
 #Review the changes and ensure they are satisfactory.
 #Push the merge to your  repository.
-git push origin master
+git push
 ```
 
 
